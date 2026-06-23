@@ -9,10 +9,10 @@
 > [OneClip QQ Group](https://qm.qq.com/q/xiImGHVMcM) | [Telegram Group](https://t.me/+I7S6R0pw5180YzRl)
 
 > [!TIP]
-> 🌟 Early first-edition source code is open at [src/](https://github.com/Wcowin/OneClip/tree/main/src). You can build it yourself.  
+> 🌟 Early first-edition source code is open at [src/](https://github.com/One-Clip/OneClip/tree/main/src). You can build it yourself.  
 > The early version used the file system; OneClip now uses SQLite (WAL mode) for storage. You can build from source if you prefer.  
 >   
-> Windows version is in development. Repo: https://github.com/Wcowin/OneClip-Windows
+> Windows version is in development. Repo: https://github.com/One-Clip/OneClip-Windows
 
 
 <div align="center">
@@ -23,13 +23,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Wcowin/OneClip/releases"><img src="https://img.shields.io/github/v/release/Wcowin/OneClip?style=for-the-badge&color=3b82f6" alt="Release" /></a>
-  <a href="https://github.com/Wcowin/OneClip/releases"><img src="https://img.shields.io/github/downloads/Wcowin/OneClip/total?style=for-the-badge&color=22c55e" alt="Downloads" /></a>
+  <a href="https://github.com/One-Clip/OneClip/releases"><img src="https://img.shields.io/github/v/release/Wcowin/OneClip?style=for-the-badge&color=3b82f6" alt="Release" /></a>
+  <a href="https://github.com/One-Clip/OneClip/releases"><img src="https://img.shields.io/github/downloads/Wcowin/OneClip/total?style=for-the-badge&color=22c55e" alt="Downloads" /></a>
   <img src="https://img.shields.io/badge/Homebrew-Available-orange?style=for-the-badge&logo=homebrew&logoColor=white" alt="Homebrew" />
   <img src="https://img.shields.io/badge/macOS-12%2B-0f172a?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 12+" />
   <img src="https://img.shields.io/badge/Swift-5.9%2B-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift 5.9+" />
   <img src="https://img.shields.io/badge/Privacy-Local%20Storage-green?style=for-the-badge" alt="Privacy Local Storage" />
-  <a href="https://github.com/Wcowin/OneClip/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" /></a>
+  <a href="https://github.com/One-Clip/OneClip/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License" /></a>
   <a href="https://qm.qq.com/q/xiImGHVMcM"><img src="https://img.shields.io/badge/QQ%20Group-1060157293-0084ff?style=for-the-badge&logo=qq&logoColor=white" alt="QQ Group" /></a>
   <a href="https://space.bilibili.com/1407028951/lists/5012369?type=series">
     <img src="https://img.shields.io/badge/Video%20Tutorials-6366f1?style=for-the-badge" alt="Video Tutorials">
@@ -92,7 +92,7 @@ OneClip is a **professional clipboard manager** built for macOS. It uses **100% 
 
 **Option 1: GitHub Releases (recommended)**
 
-1. Go to [Releases](https://github.com/Wcowin/OneClip/releases) and download the latest build
+1. Go to [Releases](https://github.com/One-Clip/OneClip/releases) and download the latest build
 2. Drag `OneClip.app` into `Applications`
 3. If you see "from an unidentified developer", see below
 
@@ -300,7 +300,7 @@ Early-edition source is open; you can build it yourself:
 
 ```bash
 # Clone
-git clone https://github.com/Wcowin/OneClip.git
+git clone https://github.com/One-Clip/OneClip.git
 cd OneClip/src
 
 # Build
@@ -457,7 +457,7 @@ If it still fails:
 - [ ] Team/collaboration
 - [ ] iOS / iPadOS / Windows clients
 
-💡 Suggestions? [GitHub Discussions](https://github.com/Wcowin/OneClip/discussions)
+💡 Suggestions? [GitHub Discussions](https://github.com/One-Clip/OneClip/discussions)
 
 ## About the author
 
