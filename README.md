@@ -9,9 +9,10 @@
 > [OneClip QQ交流群](https://qm.qq.com/q/xiImGHVMcM) | [TG 群组](https://t.me/+I7S6R0pw5180YzRl)  
 
 > [!TIP]
-> 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪切板核心机制，希望同行仅使用核心机制作为参考，UI 自行打磨。希望各位开发同类产品之前先调研再 vibe coding，三思而后行       
+> 🌟 OneClip早期源码已开源在 [src/](https://github.com/One-Clip/OneClip/tree/main/src) 目录，可自行下载构建。我**完整开源**了剪切板核心机制，希望同行仅使用核心机制作为参考，UI 自行打磨。希望各位同行：开发同类产品之前先调研再 vibe coding，三思而后行。         
 > 
 > Windows版本正在开发中，敬请期待！仓库地址：https://github.com/One-Clip/OneClip-Windows
+>win 和 iOS 鸽一下吧 
 
 
 <div align="center">
@@ -155,7 +156,7 @@ sudo xattr -rd com.apple.quarantine /Applications/OneClip.app
 
 ## 功能演示
 
-> **视频教程**
+> **视频展示**
 > - B 站：https://space.bilibili.com/1407028951/lists/5012369?type=series
 
 ### 核心功能展示
@@ -469,12 +470,9 @@ open dist/OneClip.app
 ### 🚧 进行中
 
 - [ ] 性能/功能持续优化
-- [ ] 多语言支持完善
 
 ### 📋 计划中
 
-- [ ] 插件系统
-- [ ] 团队协作功能
 - [ ] iOS/iPadOS/Windows客户端
 
 💡 有功能建议？欢迎在 [GitHub Discussions](https://github.com/One-Clip/OneClip/discussions) 提出！
@@ -485,7 +483,7 @@ open dist/OneClip.app
   <img src="https://s1.imagehub.cc/images/2025/07/25/27c0e105ea7efbed5d046d3a8c303e9d.jpeg" alt="Wcowin" width="80" height="80" style="border-radius: 50%;">
   <h3>Wcowin</h3>
   <p>
-    <a href="https://wcowin.work/blog/Mac/sunhuai/"> 博客</a> |
+    <a href="https://wcowin.work/"> 博客</a> |
     <a href="https://github.com/Wkwcowin"> GitHub</a> |
     <a href="mailto:vip@oneclip.cloud"> 邮箱</a>
   </p>
@@ -553,5 +551,5 @@ open dist/OneClip.app
   <p><strong>OneClip —— 简单专业的 macOS 剪贴板管理工具</strong></p>
   <p>让复杂的事情变简单，让简单的事情变优雅</p>
   <p>Made with ❤️ by <a href="https://github.com/Wkwcowin">Wcowin</a></p>
-  <p>© 2026 Wcowin. All rights reserved.</p>
+  <p>© 2025-2026 Wcowin. All rights reserved.</p>
 </div>
